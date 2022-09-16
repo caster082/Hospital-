@@ -1,11 +1,11 @@
 # -*- coding:utf-8 -*-
 
 {
-    'name': 'Odoo 15 HR Payroll',
+    'name': 'hospital test',
     'category': 'Generic Modules/Human Resources',
     'version': '15.0.4.0.0',
     'sequence': 1,
-    'author': 'Odoo Mates, Odoo SA',
+    'author': 'Casta',
     'summary': 'Payroll For Odoo 15 Community Edition',
     'live_test_url': 'https://www.youtube.com/watch?v=0kaHMTtn7oY',
     'description': "Odoo 15 Payroll, Payroll Odoo 15, Odoo Community Payroll",
